@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html,
+body {
+  background-color: #333;
+  color: #777;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.green {
+  background-color: green;
+}
+.grey {
+  background-color: grey;
+}
+.yellow {
+  background-color: yellow;
+}
+
+.Board div {
+  display: inline;
+  height: 25px;
+  width: 25px;
+  padding: 5px;
+}
